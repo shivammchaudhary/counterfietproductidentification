@@ -1,5 +1,7 @@
-# Fake Product Identification using Blockchain
-
+# Counterfeit Product Identification using Blockchain
+By:-
+Shivam Choudhary -101432697
+Kathan Thaker - 101466593
 ## Packages Required:-
 - Truffle v5.6.7 (core: 5.6.7)
 - Ganache v7.5.0
